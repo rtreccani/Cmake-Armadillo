@@ -1,9 +1,13 @@
 # Using CMake to link in Armadillo
 
+## Dependencies
+
 ## Instructions 
-```
-mkdir build_gcc
-cd build_gcc
-cmake -B. -H..
-make
-```
+
+`$1. mkdir build_gcc`
+
+`$2. cd build_gcc`
+
+`$3. cmake -B. -H..`
+
+`$4. make`
